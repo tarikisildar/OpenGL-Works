@@ -398,4 +398,4 @@ FodyWeavers.xsd
 *.sln.iml
 
 # Don't ignore Dependencies
-!Dependencies
+!Dependencies/**
